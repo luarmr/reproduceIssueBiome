@@ -1,0 +1,10 @@
+{
+	"name": "reproduceIssueBiome",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Raul Martin <luarmr@gmail.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"@biomejs/biome": "1.7.2"
+	}
+}
